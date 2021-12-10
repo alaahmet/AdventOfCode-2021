@@ -1,2 +1,2 @@
 # AdventOfCode
- My solutions to second parts of  Advent of Code 2021 challanges
+ My solutions to Advent of Code 2021 challanges
