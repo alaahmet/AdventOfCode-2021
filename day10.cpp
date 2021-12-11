@@ -52,6 +52,6 @@ int main(){
     	}
     }
     sort(v.begin(),v.end());
-    cout << v[v.size()/2] << endl; // task2
-    // cout << ans << endl; //task1
+    cout << v[v.size()/2] << endl; // part2
+    // cout << ans << endl; //part1
 }
