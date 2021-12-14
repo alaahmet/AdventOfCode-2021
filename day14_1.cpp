@@ -46,14 +46,4 @@ int32_t main(){
 	auto lit=st.end();
 	--lit;
 	cout << (*lit-*kit) << endl;
-
-
-
-
-
-
-
-
-
-
 }
