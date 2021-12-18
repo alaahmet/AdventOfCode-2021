@@ -18,10 +18,10 @@ int32_t main(){
 			int velx=i;
 			int vely=j;
 			while(1){
-				if(x>=xmin and x<=xmax
-	               and y>=ymin and y<=ymax){++ans;
-					break;}
-
+				if(x>=xmin and x<=xmax and y>=ymin and y<=ymax){
+					++ans;
+					break;
+				}
 				if(velx==0 and vely<0 and y<=ymin)
 					break;
 				x+=velx;
