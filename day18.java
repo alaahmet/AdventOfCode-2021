@@ -252,5 +252,4 @@ public class day18 {
 		}
 		System.out.println("Part 2: "+ ans);
 	}
-
 }
