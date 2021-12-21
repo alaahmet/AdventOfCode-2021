@@ -11,7 +11,6 @@ int main(){
 	long long total=0;
 	score[0]=0;
 	score[1]=0;
-
 	while(score[0]<1000 and score[1]<1000){
 		pos[turn]=(pos[turn]+3*dice+3)%10;
 		score[turn]=score[turn]+pos[turn];
