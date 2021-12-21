@@ -4,8 +4,8 @@ int pos[2];
 int score[2];
 int main(){
 	ios_base::sync_with_stdio(0);cin.tie(0);
-	pos[0]=9;
-	pos[1]=6;
+	pos[0]=9; // position of player 0
+	pos[1]=6; // position of player 1
 	int dice=1;
 	int turn=0;
 	long long total=0;
